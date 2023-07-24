@@ -1,6 +1,6 @@
 ## Hi there 👋 I am Soumya, a Software Engineer 👩‍💻 based in London.
 
-### Github is my space to translate all those random midnight epiphanies to code (private to save the embarassment 😳)
+### Github is my space to translate all those random midnight epiphanies to code (hence private to save the embarassment 😳)
 
 - 🌟 My top skills are: Python 🐍, Java ☕ & GCP ☁️
 - 🌱 I’d love to learn about: Natural Language Processing
