@@ -4,7 +4,7 @@
 
 - 🌟 My top skills are: Python 🐍, Java ☕ & GCP ☁️
 - 🌱 I’d love to learn about: Natural Language Processing
-- ⚡ Fun fact: I created Duolingo's Hindi course, which has 11M learners globally. I also translate TED Talks for fun!
+- ⚡ Fun fact: I created Duolingo's Hindi course, which has 11.7M learners globally. I also translate TED Talks for fun!
 
 ## Tech Stack
 
